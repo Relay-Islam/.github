@@ -1,3 +1,3 @@
-## Hi there, welcome to Relay! 👋
+## Salaam, welcome to Relay! 👋
 
-This section is currently being updated. Stay tuned :)
+The [Relay iOS app](https://apps.apple.com/us/app/relay-intro-to-islam-prayer/id6501968975) is out now! Go check it out!
